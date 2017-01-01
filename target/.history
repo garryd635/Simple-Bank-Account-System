@@ -1,0 +1,73 @@
+ls
+show name'
+show name
+show scalaVersion
+show version
+show organization
+ls
+help
+compile
+run
+cd src
+compile
+run
+compile
+run
+sbt clean
+clean
+compile
+help
+version
+scalaVersion
+clean
+compile
+clean
+compile
+scalaVersion
+clean
+compile
+clean
+compile
+help
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+exit
